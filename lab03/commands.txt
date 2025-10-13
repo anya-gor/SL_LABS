@@ -1,0 +1,44 @@
+mkdir linux_lab
+cd linux_lab
+mkdir -p backups projects/{scripts,web/static} temp
+tree
+touch projects/scripts/{main.py,config.yaml,utils.sh}
+touch projects/web/static/{index.html,styles.css}
+cat > projects/web/static/index.html
+cp projects/web/static/styles.css temp/old_styles.css
+mv projects/scripts/config.yaml temp/
+cp projects/scripts/*.sh temp/
+ls -lRh | grep -v '^d' | sort -k5 -h
+cd ~
+ln linux_lab/projects/scripts/main.py hard_link.txt
+cat hard_link.txt
+cat >> hard_link.txt
+cat linux_lab/projects/scripts/main.py
+cd linux_lab/temp
+ln -s ../projects/web/static/ web_link
+cd web_link
+cd ~/linux_lab
+tar -cf backups/projects_backup.tar projects/
+tar -czf backups/web_backup.tar.gz projects/web/ 17
+zip backups/important_files.zip projects/scripts/main.py projects/scripts/utils.sh
+mkdir -p temp/restored_web
+tar -xzf backups/web_backup.tar.gz -C temp/restored_web/
+unzip -l backups/important_files.zip
+rm -rf temp/*
+rm -rf backups/*
+rm -f temp/web_link
+whoami > report.txt
+logname >> report.txt
+pwd >> report.txt
+id >> report.txt
+ls -l projects/scripts/ >> report.txt
+date >> report.txt
+cp report.txt ~/
+cd ~
+zip -P 1111 linux_lab_final.zip -r linux_lab/
+ls -lh linux_lab_final.zip
+rm -rf linux_lab/
+unzip -P 1111 linux_lab_final.zip
+cat linux_lab/report.txt
+tree linux_lab/
+
