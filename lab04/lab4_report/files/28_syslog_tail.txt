@@ -1,0 +1,20 @@
+2025-10-19T19:48:55.566868+03:00 gordeenko-VirtualBox systemd-resolved[8083]: Using system hostname 'gordeenko-VirtualBox'.
+2025-10-19T19:48:55.568459+03:00 gordeenko-VirtualBox systemd[1]: Started systemd-resolved.service - Network Name Resolution.
+2025-10-19T19:48:55.569033+03:00 gordeenko-VirtualBox dbus-daemon[588]: [system] Successfully activated service 'org.freedesktop.resolve1'
+2025-10-19T19:49:05.456762+03:00 gordeenko-VirtualBox systemd[1]: NetworkManager-dispatcher.service: Deactivated successfully.
+2025-10-19T19:49:05.944984+03:00 gordeenko-VirtualBox systemd-resolved[8083]: Using degraded feature set UDP instead of UDP+EDNS0 for DNS server fd17:625c:f037:2::3.
+2025-10-19T19:49:05.969520+03:00 gordeenko-VirtualBox systemd-resolved[8083]: Using degraded feature set UDP instead of UDP+EDNS0 for DNS server 192.168.43.1.
+2025-10-19T19:49:09.601485+03:00 gordeenko-VirtualBox dbus-daemon[1286]: [session uid=1000 pid=1286] Activating service name='org.xfce.Xfconf' requested by ':1.115' (uid=1000 pid=5681 comm="xfce4-terminal" label="unconfined")
+2025-10-19T19:49:09.602060+03:00 gordeenko-VirtualBox kernel: systemd-journald[8068]: File /var/log/journal/20aa734f9b984a2b847f140909629334/user-1000.journal corrupted or uncleanly shut down, renaming and replacing.
+2025-10-19T19:49:09.630846+03:00 gordeenko-VirtualBox dbus-daemon[1286]: [session uid=1000 pid=1286] Successfully activated service 'org.xfce.Xfconf'
+2025-10-19T19:49:11.194265+03:00 gordeenko-VirtualBox systemd-resolved[8083]: Using degraded feature set TCP instead of UDP for DNS server fd17:625c:f037:2::3.
+2025-10-19T19:49:16.220846+03:00 gordeenko-VirtualBox systemd-resolved[8083]: Using degraded feature set TCP instead of UDP for DNS server 192.168.43.1.
+2025-10-19T19:49:36.451825+03:00 gordeenko-VirtualBox systemd-resolved[8083]: Using degraded feature set UDP instead of TCP for DNS server fd17:625c:f037:2::3.
+2025-10-19T19:49:36.475920+03:00 gordeenko-VirtualBox systemd-resolved[8083]: Using degraded feature set UDP instead of TCP for DNS server 192.168.43.1.
+2025-10-19T19:49:36.486575+03:00 gordeenko-VirtualBox systemd-resolved[8083]: Using degraded feature set TCP instead of UDP for DNS server fd17:625c:f037:2::3.
+2025-10-19T19:49:36.491387+03:00 gordeenko-VirtualBox systemd-resolved[8083]: Using degraded feature set TCP instead of UDP for DNS server 192.168.43.1.
+2025-10-19T19:49:36.681843+03:00 gordeenko-VirtualBox systemd-resolved[8083]: Using degraded feature set UDP instead of TCP for DNS server fd17:625c:f037:2::3.
+2025-10-19T19:49:58.374341+03:00 gordeenko-VirtualBox systemd-resolved[8083]: Using degraded feature set UDP instead of TCP for DNS server 192.168.43.1.
+2025-10-19T19:50:03.464866+03:00 gordeenko-VirtualBox systemd-resolved[8083]: Using degraded feature set TCP instead of UDP for DNS server fd17:625c:f037:2::3.
+2025-10-19T19:50:08.702666+03:00 gordeenko-VirtualBox systemd-resolved[8083]: Using degraded feature set TCP instead of UDP for DNS server 192.168.43.1.
+2025-10-19T19:50:29.200122+03:00 gordeenko-VirtualBox systemd-resolved[8083]: Using degraded feature set UDP instead of TCP for DNS server fd17:625c:f037:2::3.
