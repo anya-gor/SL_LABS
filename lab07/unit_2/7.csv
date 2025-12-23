@@ -1,0 +1,27 @@
+Date;City;Temperature;Humidity;Pressure;Wind_Speed
+2024-01-15;Moscow;-12;75;765;3
+2024-01-15;Saint Petersburg;-8;80;758;5
+2024-01-15;Novosibirsk;-25;70;745;2
+2024-01-15;Yekaterinburg;-18;68;752;4
+2024-01-15;Kazan;-15;72;760;3
+2024-01-16;Moscow;-10;78;763;4
+2024-01-16;Saint Petersburg;-6;82;755;6
+2024-01-16;Novosibirsk;-22;65;742;3
+2024-01-16;Yekaterinburg;-16;70;750;5
+2024-01-16;Kazan;-13;75;758;4
+2024-01-17;Moscow;-8;76;768;2
+2024-01-17;Saint Petersburg;-4;79;762;4
+2024-01-17;Novosibirsk;-20;60;748;1
+2024-01-17;Yekaterinburg;-14;65;755;3
+2024-01-17;Kazan;-11;70;763;2
+2024-01-18;Moscow;-5;72;770;3
+2024-01-18;Saint Petersburg;-2;75;765;5
+2024-01-18;Novosibirsk;-18;58;752;2
+2024-01-18;Yekaterinburg;-12;62;760;4
+2024-01-18;Kazan;-9;68;768;3
+2024-01-19;Moscow;-3;70;772;4
+2024-01-19;Saint Petersburg;0;73;768;6
+2024-01-19;Novosibirsk;-15;55;755;3
+2024-01-19;Yekaterinburg;-10;60;763;5
+2024-01-19;Kazan;-7;65;770;4
+

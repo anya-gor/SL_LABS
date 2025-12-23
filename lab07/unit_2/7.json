@@ -1,0 +1,9 @@
+{
+  "accounts": [
+    {"account_id": "acc_xyz_001", "username": "user1", "email": "user1@service.com", "status": "active", "last_login": "2024-01-15", "storage_used": 2.5},
+    {"account_id": "acc_abc_002", "username": "user2", "email": "user2@service.com", "status": "inactive", "last_login": "2023-12-10", "storage_used": 1.2},
+    {"account_id": "acc_def_003", "username": "user3", "email": "user3@service.com", "status": "active", "last_login": "2024-01-20", "storage_used": 3.8},
+    {"account_id": "acc_mno_004", "username": "user4", "email": "user4@service.com", "status": "suspended", "last_login": "2023-11-05", "storage_used": 0.5},
+    {"account_id": "acc_123_005", "username": "user5", "email": "user5@service.com", "status": "active", "last_login": "2024-01-18", "storage_used": 4.2}
+  ]
+}
