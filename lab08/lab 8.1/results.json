@@ -1,0 +1,134 @@
+{
+  "spanish": [
+    {
+      "name": "Nicaragua",
+      "capital": "Managua",
+      "area": 130373.0,
+      "population": 6803886
+    },
+    {
+      "name": "Spain",
+      "capital": "Madrid",
+      "area": 505992.0,
+      "population": 49315949
+    },
+    {
+      "name": "Argentina",
+      "capital": "Buenos Aires",
+      "area": 2780400.0,
+      "population": 46735004
+    },
+    {
+      "name": "Venezuela",
+      "capital": "Caracas",
+      "area": 916445.0,
+      "population": 28517000
+    },
+    {
+      "name": "Western Sahara",
+      "capital": "El Aaiún",
+      "area": 266000.0,
+      "population": 600904
+    },
+    {
+      "name": "Chile",
+      "capital": "Santiago",
+      "area": 756102.0,
+      "population": 20206953
+    },
+    {
+      "name": "Colombia",
+      "capital": "Bogotá",
+      "area": 1141748.0,
+      "population": 53057212
+    },
+    {
+      "name": "Honduras",
+      "capital": "Tegucigalpa",
+      "area": 112492.0,
+      "population": 9892632
+    },
+    {
+      "name": "Ecuador",
+      "capital": "Quito",
+      "area": 276841.0,
+      "population": 18103660
+    },
+    {
+      "name": "Peru",
+      "capital": "Lima",
+      "area": 1285216.0,
+      "population": 34350244
+    },
+    {
+      "name": "Uruguay",
+      "capital": "Montevideo",
+      "area": 181034.0,
+      "population": 3499451
+    },
+    {
+      "name": "Mexico",
+      "capital": "Mexico City",
+      "area": 1964375.0,
+      "population": 130575786
+    },
+    {
+      "name": "Paraguay",
+      "capital": "Asunción",
+      "area": 406752.0,
+      "population": 6109644
+    },
+    {
+      "name": "Cuba",
+      "capital": "Havana",
+      "area": 109884.0,
+      "population": 9748007
+    },
+    {
+      "name": "Bolivia",
+      "capital": "Sucre",
+      "area": 1098581.0,
+      "population": 11365333
+    },
+    {
+      "name": "Guatemala",
+      "capital": "Guatemala City",
+      "area": 108889.0,
+      "population": 18079810
+    }
+  ],
+  "portuguese": [
+    {
+      "name": "Angola",
+      "capital": "Luanda",
+      "area": 1246700.0,
+      "population": 36170961
+    },
+    {
+      "name": "Mozambique",
+      "capital": "Maputo",
+      "area": 801590.0,
+      "population": 34090466
+    },
+    {
+      "name": "Brazil",
+      "capital": "Brasília",
+      "area": 8515767.0,
+      "population": 213421037
+    }
+  ],
+  "german": [
+    {
+      "name": "Germany",
+      "capital": "Berlin",
+      "area": 357114.0,
+      "population": 83491249
+    },
+    {
+      "name": "Namibia",
+      "capital": "Windhoek",
+      "area": 825615.0,
+      "population": 3022401
+    }
+  ]
+}
